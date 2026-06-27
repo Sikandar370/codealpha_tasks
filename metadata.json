@@ -1,0 +1,6 @@
+{
+  "name": "Language Translation Tool",
+  "description": "A modern and responsive language translation tool with dark mode, TTS speech pronunciation, copy buttons, history log, and AI-powered grammar nuance guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
